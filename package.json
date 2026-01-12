@@ -1,0 +1,34 @@
+{
+  "name": "aesthetic-latte-dark",
+  "displayName": "Aesthetic Latte Dark",
+  "description": "A warm, dark theme with coffee-inspired colors - ported from KDE Plasma",
+  "version": "1.0.0",
+  "publisher": "guilhermemorelidev",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "warm",
+    "latte",
+    "coffee",
+    "aesthetic",
+    "kde"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guilhermemorelidev/latte-dark-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aesthetic Latte Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/latte-color-theme.json"
+      }
+    ]
+  }
+}
