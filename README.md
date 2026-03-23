@@ -4,7 +4,7 @@ Tema escuro para o VS Code com paleta de cores inspirada em café — tons quent
 
 ![Preview do tema](./themepicture.png)
 
-# 🖋️ The font used in screenshots is called **Cartograph CF**
+# 🖋️ A fonte usada foi a **Cartograph CF**
 
 ---
 
