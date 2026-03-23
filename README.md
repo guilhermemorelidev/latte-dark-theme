@@ -2,7 +2,7 @@
 
 Tema escuro para o VS Code com paleta de cores inspirada em café — tons quentes de âmbar, marrom e creme sobre um fundo quase preto. Portado do KDE Plasma.
 
-![Preview do tema](themepicture.png)
+![Preview do tema](./themepicture.png)
 
 ---
 
