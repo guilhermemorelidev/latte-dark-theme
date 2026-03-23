@@ -107,4 +107,4 @@ Encontrou alguma linguagem com colorização ruim? Abra uma [issue](https://gith
 
 ## 📄 Licença
 
-MIT © [Guilherme Moreli](https://github.com/guilhermemorelidev/License.md)
+MIT © [Guilherme Moreli](LICENSE.MD)
